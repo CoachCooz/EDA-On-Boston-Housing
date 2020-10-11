@@ -11,7 +11,7 @@ In this small project, I am going to display an Exploratory Data Analysis (EDA) 
 ## Goals
  
 * Discover if there are null values.
-* Use a scatter plot to investigate distributions.
+* Use a scatter plot, histograms, & box plots to investigate distributions.
 * Write a loop to discover highly correlated variables
 * Choose 3 or 4 variables for which to explore, plot, and provide brief analyses on their distributions.
 * Perform an advanced analysis on 1 feature
